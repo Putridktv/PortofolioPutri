@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PortofolioPutri</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="porto_1_title">Hope</string>
+    <string name="porto_1_desc">This image can be interpreted in various ways. Some may see it as a symbol of hope amidst adversity. The man may represent someone who is struggling through difficult times in his life. The light at the end of the tunnel may represent hope for a better future.</string>
+
+    <string name="porto_2_title">The Joy of Music</string>
+    <string name="porto_2_desc">This image shows a group of people dancing and listening to music. These people come from various ages and backgrounds. They look very happy and enjoying themselves. Music plays an important role in this picture. Music is a source of joy and togetherness.</string>
+
+    <string name="porto_3_title">Book Tent</string>
+    <string name="porto_3_desc">This image shows a book-shaped tent. This tent is made of colorful fabric, with open book pages as the walls. At the front of the tent, there is a door with the words "Books are windows to the world". This image depicts a metaphor about the importance of reading. </string>
+
+    <string name="porto_4_title">Chilling out in the City</string>
+    <string name="porto_4_desc">This image as a reminder that we all need to take time to relax and enjoy life. We dont have to always be busy and in a hurry. We need to take time for ourselves, and enjoy the little moments in life. This image can also be seen as a symbol of freedom and self-expression.</string>
+
+    <string name="porto_1_content_description">Portofolio 1</string>
+    <string name="porto_2_content_description">Portofolio 2</string>
+    <string name="porto_3_content_description">Portofolio 3</string>
+    <string name="porto_4_content_description">Portofolio 4</string>
+</resources>
